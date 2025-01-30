@@ -1,0 +1,42 @@
+{
+  "isSaveFile": false,
+  "currentLevel": "level4",
+  "timer": 0,
+  "player" : {
+    "worldX" : 1116,
+    "worldY" : 1709,
+    "currentHealth" : 120,
+    "maxHealth" : 120,
+    "currentMana" : 200,
+    "maxMana" : 200,
+    "currentArmor" : 10,
+    "maxArmor" : 10,
+    "direction" : "down",
+    "currentWeapon" : "NORMAL",
+    "attackPointSpear": 0,
+    "attackPointGun": 0
+  },
+  "monsters" : {
+    "monstersData" : [ {
+      "name" : "SkeletonReaper",
+      "worldX" : 933,
+      "worldY" : 233,
+      "currentHealth" : 100
+    } ]
+  },
+  "npcsData" : {
+    "npcsData" : [ ]
+  },
+  "doorSystem" : {
+    "enteredDoorID" : -1,
+    "enteredDirection" : 0,
+    "exitDirection" : 0,
+    "doors" : [ ]
+  },
+  "monsterAreaSystem" : {
+    "monsterAreas" : [ ]
+  },
+  "collectibleSystem": {
+    "collectibleList": []
+  }
+}
